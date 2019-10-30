@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\AAAService" t="IncludeFlat">
+      <e p="AAAService" t="IncludeRecursive">
+        <e p="AAAService.csproj" t="IncludeRecursive" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Context.cs" t="Include" />
+        <e p="Model.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="ProjectInstaller.cs" t="Include" />
+        <e p="ProjectInstaller.Designer.cs" t="Include" />
+        <e p="ProjectInstaller.resx" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Service1.cs" t="Include" />
+        <e p="Service1.Designer.cs" t="Include" />
+        <e p="Service1.resx" t="Include" />
+      </e>
+      <e p="AAAService.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Александр\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Александр\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_AAAService.1742402385.00" t="ExcludeRecursive" />
+  </component>
+</project>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d839be95-95f0-47a8-847e-7fa07b6ee20d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VKApp/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <marker date="1557248164094" expanded="false" signature="6:148" ph="..." />
+                <marker date="1557248164094" expanded="true" signature="165:1101" ph="{...}" />
+                <marker date="1557248164094" expanded="true" signature="201:671" ph="{...}" />
+                <marker date="1557248164094" expanded="true" signature="254:665" ph="{...}" />
+                <marker date="1557248164094" expanded="true" signature="569:585" ph="{...}" />
+                <marker date="1557248164094" expanded="true" signature="702:1099" ph="{...}" />
+                <marker date="1557248164094" expanded="true" signature="896:1093" ph="{...}" />
+                <marker date="1557248164094" expanded="true" signature="971:1083" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../НЕ МОЕ/SeleniumApplications/jsons/images.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2153" selection-start-column="2153" selection-end-column="2153" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../НЕ МОЕ/SeleniumApplications/jsons/links.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1141" selection-start-column="1141" selection-end-column="1141" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../НЕ МОЕ/SeleniumApplications/jsons/texts.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2827" selection-start-column="2827" selection-end-column="2827" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VKApp/Manager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="78" column="12" selection-start-line="78" selection-start-column="12" selection-end-line="78" selection-end-column="12" />
+              <folding>
+                <marker date="1557248088532" expanded="false" signature="6:251" ph="..." />
+                <marker date="1557248088532" expanded="true" signature="268:6479" ph="{...}" />
+                <marker date="1557248088532" expanded="true" signature="295:6477" ph="{...}" />
+                <marker date="1557248088532" expanded="true" signature="1068:1385" ph="{...}" />
+                <marker date="1557248088532" expanded="true" signature="1418:1897" ph="{...}" />
+                <marker date="1557248088532" expanded="true" signature="1930:2410" ph="{...}" />
+                <marker date="1557248088532" expanded="true" signature="2444:2935" ph="{...}" />
+                <marker date="1557248088532" expanded="true" signature="3321:3990" ph="{...}" />
+                <marker date="1557248088532" expanded="true" signature="4046:4778" ph="{...}" />
+                <marker date="1557248088532" expanded="true" signature="4527:4691" ph="{...}" />
+                <marker date="1557248088532" expanded="true" signature="4835:5249" ph="{...}" />
+                <marker date="1557248088532" expanded="true" signature="5704:6011" ph="{...}" />
+                <marker date="1557248088532" expanded="true" signature="6045:6471" ph="{...}" />
+                <marker date="1557248088532" expanded="true" signature="6226:6461" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VKApp/ThreadManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <folding>
+                <marker date="1557253205160" expanded="true" signature="6:71" ph="..." />
+                <marker date="1557253205160" expanded="true" signature="88:758" ph="{...}" />
+                <marker date="1557253205160" expanded="true" signature="121:756" ph="{...}" />
+                <marker date="1557253205160" expanded="true" signature="232:407" ph="{...}" />
+                <marker date="1557253205160" expanded="true" signature="462:667" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VKApp/Reader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+              <folding>
+                <marker date="1557248118541" expanded="false" signature="6:54" ph="..." />
+                <marker date="1557248118541" expanded="true" signature="71:2483" ph="{...}" />
+                <marker date="1557248118541" expanded="true" signature="104:2481" ph="{...}" />
+                <marker date="1557248118541" expanded="true" signature="331:1987" ph="{...}" />
+                <marker date="1557248118541" expanded="true" signature="463:1932" ph="{...}" />
+                <marker date="1557248118541" expanded="true" signature="555:947" ph="{...}" />
+                <marker date="1557248118541" expanded="true" signature="1042:1436" ph="{...}" />
+                <marker date="1557248118541" expanded="true" signature="1517:1918" ph="{...}" />
+                <marker date="1557248118541" expanded="true" signature="2042:2475" ph="{...}" />
+                <marker date="1557248118541" expanded="true" signature="2053:2282" ph="/* using (StreamWriter sw = new StreamWriter(&quot;../../&quot; + filename, true, System.Text.Encoding.UTF8)) ... */" />
+                <marker date="1557248118541" expanded="true" signature="2405:2465" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/VKApp/ThreadManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VKApp/Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35B14027-6B2F-460C-88E9-BBFD32CEFF37/cf/3a1b1567/Mutex.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VKApp/Reader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VKApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2973DE33-D156-45F6-8EE5-E8520440E539/ed/0e9a7657/WaitHandle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2973DE33-D156-45F6-8EE5-E8520440E539/17/279acac3/ThreadHelper.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../НЕ МОЕ/SeleniumApplications/jsons/texts.json" />
+        <option value="$PROJECT_DIR$/../НЕ МОЕ/SeleniumApplications/jsons/images.json" />
+        <option value="$PROJECT_DIR$/../НЕ МОЕ/SeleniumApplications/jsons/links.json" />
+        <option value="$PROJECT_DIR$/VKApp/Manager.cs" />
+        <option value="$PROJECT_DIR$/VKApp/Reader.cs" />
+        <option value="$PROJECT_DIR$/VKApp/Program.cs" />
+        <option value="$PROJECT_DIR$/VKApp/ThreadManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="VKApp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="VKApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="VKApp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Visual Studio 2017/Projects/testConsole App" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/VKApp/bin/Debug/VKApp.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VKApp/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/VKApp/VKApp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d839be95-95f0-47a8-847e-7fa07b6ee20d" name="Default Changelist" comment="" />
+      <created>1557157712724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557157712724</updated>
+      <workItem from="1557157714616" duration="2453000" />
+      <workItem from="1557165396567" duration="3321000" />
+      <workItem from="1557245433321" duration="5035000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10809000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.12793177" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33152762" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12793177" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33152762" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../НЕ МОЕ/SeleniumApplications/jsons/images.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2153" selection-start-column="2153" selection-end-column="2153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../НЕ МОЕ/SeleniumApplications/jsons/links.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1141" selection-start-column="1141" selection-end-column="1141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../НЕ МОЕ/SeleniumApplications/jsons/texts.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2827" selection-start-column="2827" selection-end-column="2827" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35B14027-6B2F-460C-88E9-BBFD32CEFF37/cf/3a1b1567/Mutex.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="135" column="11" selection-start-line="135" selection-start-column="11" selection-end-line="135" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VKApp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <marker date="1557248164094" expanded="false" signature="6:148" ph="..." />
+            <marker date="1557248164094" expanded="true" signature="165:1101" ph="{...}" />
+            <marker date="1557248164094" expanded="true" signature="201:671" ph="{...}" />
+            <marker date="1557248164094" expanded="true" signature="254:665" ph="{...}" />
+            <marker date="1557248164094" expanded="true" signature="569:585" ph="{...}" />
+            <marker date="1557248164094" expanded="true" signature="702:1099" ph="{...}" />
+            <marker date="1557248164094" expanded="true" signature="896:1093" ph="{...}" />
+            <marker date="1557248164094" expanded="true" signature="971:1083" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VKApp/Reader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <marker date="1557248118541" expanded="false" signature="6:54" ph="..." />
+            <marker date="1557248118541" expanded="true" signature="71:2483" ph="{...}" />
+            <marker date="1557248118541" expanded="true" signature="104:2481" ph="{...}" />
+            <marker date="1557248118541" expanded="true" signature="331:1987" ph="{...}" />
+            <marker date="1557248118541" expanded="true" signature="463:1932" ph="{...}" />
+            <marker date="1557248118541" expanded="true" signature="555:947" ph="{...}" />
+            <marker date="1557248118541" expanded="true" signature="1042:1436" ph="{...}" />
+            <marker date="1557248118541" expanded="true" signature="1517:1918" ph="{...}" />
+            <marker date="1557248118541" expanded="true" signature="2042:2475" ph="{...}" />
+            <marker date="1557248118541" expanded="true" signature="2053:2282" ph="/* using (StreamWriter sw = new StreamWriter(&quot;../../&quot; + filename, true, System.Text.Encoding.UTF8)) ... */" />
+            <marker date="1557248118541" expanded="true" signature="2405:2465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2973DE33-D156-45F6-8EE5-E8520440E539/ed/0e9a7657/WaitHandle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="606" column="6" selection-start-line="606" selection-start-column="6" selection-end-line="606" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VKApp/Manager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="78" column="12" selection-start-line="78" selection-start-column="12" selection-end-line="78" selection-end-column="12" />
+          <folding>
+            <marker date="1557248088532" expanded="false" signature="6:251" ph="..." />
+            <marker date="1557248088532" expanded="true" signature="268:6479" ph="{...}" />
+            <marker date="1557248088532" expanded="true" signature="295:6477" ph="{...}" />
+            <marker date="1557248088532" expanded="true" signature="1068:1385" ph="{...}" />
+            <marker date="1557248088532" expanded="true" signature="1418:1897" ph="{...}" />
+            <marker date="1557248088532" expanded="true" signature="1930:2410" ph="{...}" />
+            <marker date="1557248088532" expanded="true" signature="2444:2935" ph="{...}" />
+            <marker date="1557248088532" expanded="true" signature="3321:3990" ph="{...}" />
+            <marker date="1557248088532" expanded="true" signature="4046:4778" ph="{...}" />
+            <marker date="1557248088532" expanded="true" signature="4527:4691" ph="{...}" />
+            <marker date="1557248088532" expanded="true" signature="4835:5249" ph="{...}" />
+            <marker date="1557248088532" expanded="true" signature="5704:6011" ph="{...}" />
+            <marker date="1557248088532" expanded="true" signature="6045:6471" ph="{...}" />
+            <marker date="1557248088532" expanded="true" signature="6226:6461" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2973DE33-D156-45F6-8EE5-E8520440E539/17/279acac3/ThreadHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VKApp/ThreadManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <marker date="1557253205160" expanded="true" signature="6:71" ph="..." />
+            <marker date="1557253205160" expanded="true" signature="88:758" ph="{...}" />
+            <marker date="1557253205160" expanded="true" signature="121:756" ph="{...}" />
+            <marker date="1557253205160" expanded="true" signature="232:407" ph="{...}" />
+            <marker date="1557253205160" expanded="true" signature="462:667" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

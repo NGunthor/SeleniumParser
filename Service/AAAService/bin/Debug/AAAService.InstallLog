@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\AAAService\AAAService\bin\Debug\AAAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\AAAService\AAAService\bin\Debug\AAAService.InstallLog
+   assemblypath = C:\AAAService\AAAService\bin\Debug\AAAService.exe
+Устанавливается служба AAAService...
+Служба AAAService успешно установлена.
+Создается исходный EventLog AAAService в журнале Application...
+Выполняется фиксация сборки 'C:\AAAService\AAAService\bin\Debug\AAAService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\AAAService\AAAService\bin\Debug\AAAService.InstallLog
+   assemblypath = C:\AAAService\AAAService\bin\Debug\AAAService.exe

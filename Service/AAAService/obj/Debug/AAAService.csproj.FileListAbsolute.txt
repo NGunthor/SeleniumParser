@@ -1,0 +1,15 @@
+C:\AAAService\AAAService\bin\Debug\AAAService.exe.config
+C:\AAAService\AAAService\bin\Debug\AAAService.exe
+C:\AAAService\AAAService\bin\Debug\AAAService.pdb
+C:\AAAService\AAAService\obj\Debug\AAAService.csprojResolveAssemblyReference.cache
+C:\AAAService\AAAService\obj\Debug\AAAService.ProjectInstaller.resources
+C:\AAAService\AAAService\obj\Debug\AAAService.AAAService.resources
+C:\AAAService\AAAService\obj\Debug\AAAService.csproj.GenerateResource.Cache
+C:\AAAService\AAAService\obj\Debug\AAAService.exe
+C:\AAAService\AAAService\obj\Debug\AAAService.pdb
+C:\AAAService\AAAService\bin\Debug\EntityFramework.dll
+C:\AAAService\AAAService\bin\Debug\EntityFramework.SqlServer.dll
+C:\AAAService\AAAService\bin\Debug\MyLib.dll
+C:\AAAService\AAAService\bin\Debug\EntityFramework.xml
+C:\AAAService\AAAService\bin\Debug\EntityFramework.SqlServer.xml
+C:\AAAService\AAAService\bin\Debug\MyLib.pdb
